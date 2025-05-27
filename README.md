@@ -1,6 +1,3 @@
-¡Perfecto Elena! Aquí tienes el contenido listo para **copiar y pegar directamente en tu `README.md`** 📄👇
-
----
 
 ```markdown
 # 🎮 Invasores Espaciales Elena
@@ -112,5 +109,3 @@ git add README.md
 git commit -m "Agregando README descriptivo del juego"
 git push
 ````
-
-¿Quieres también un gif o una imagen de vista previa del juego en el `README`? Puedo ayudarte con eso.
