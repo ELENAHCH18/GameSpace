@@ -24,7 +24,6 @@ Un videojuego arcade desarrollado en **Python** con **Pygame**, donde el jugador
 
 ## 🧩 Estructura del proyecto
 
-```
 
 Proyecto/
 ├── img/
@@ -40,7 +39,6 @@ Proyecto/
 ├── requirements.txt
 └── README.md
 
-````
 
 ---
 
